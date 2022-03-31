@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/logRancherJava/logRancherJava.hidden-tmTheme",
+	"syntax": "Packages/logRancherJava/logRancherJava.tmLanguage",
+	"log_file": "logRancherJava.log",
+	"extensions": [
+		"log",
+		"logfile"
+	]
+}

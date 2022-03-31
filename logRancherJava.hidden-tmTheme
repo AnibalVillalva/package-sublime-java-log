@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>logRancherJava Theme</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#22282A</string>
+				<key>caret</key>
+				<string>#AEAFAD</string>
+				<key>foreground</key>
+				<string>#F1F2F3</string>
+				<key>invisibles</key>
+				<string>#4B4E55</string>
+				<key>lineHighlight</key>
+				<string>#282A2E</string>
+				<key>selection</key>
+				<string>#4F6164</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>logRancherJava TRACE</string>
+			<key>scope</key>
+			<string>entity.trace.logRancherJava</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#809AB9</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>logRancherJava TRACE message</string>
+			<key>scope</key>
+			<string>entity.trace.message.logRancherJava</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#1606A6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>logRancherJava DEBUG</string>
+			<key>scope</key>
+			<string>entity.debug.logRancherJava</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FF9900</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>logRancherJava DEBUG message</string>
+			<key>scope</key>
+			<string>entity.debug.message.logRancherJava</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#996600</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>logRancherJava INFO</string>
+			<key>scope</key>
+			<string>entity.info.logRancherJava</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#00FF00</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>logRancherJava INFO message</string>
+			<key>scope</key>
+			<string>entity.info.message.logRancherJava</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#339900</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>logRancherJava WARN</string>
+			<key>scope</key>
+			<string>entity.warn.logRancherJava</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#FFCC00</string>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>logRancherJava WARN message</string>
+			<key>scope</key>
+			<string>entity.warn.message.logRancherJava</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FFCC00</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>logRancherJava ERROR</string>
+			<key>scope</key>
+			<string>entity.error.logRancherJava</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#FF0000</string>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FFFFFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>logRancherJava ERROR message</string>
+			<key>scope</key>
+			<string>entity.error.message.logRancherJava</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#CC0000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>logRancherJava FATAL</string>
+			<key>scope</key>
+			<string>entity.fatal.logRancherJava</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#FF00FF</string>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>logRancherJava FATAL message</string>
+			<key>scope</key>
+			<string>entity.fatal.message.logRancherJava</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#CC66FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>logRancherJava category</string>
+			<key>scope</key>
+			<string>entity.category.logRancherJava</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#C0C0C0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>logRancherJava control</string>
+			<key>scope</key>
+			<string>control.logRancherJava</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+
+				<key>foreground</key>
+				<string>#C0C0C0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>logRancherJava control</string>
+			<key>scope</key>
+			<string>entity.package.logRancherJava</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+
+				<key>foreground</key>
+				<string>#7A9A33</string>
+			</dict>
+		</dict>
+	</array>
+	<key>uuid</key>
+	<string>F96223EB-1AAB-4617-92F3-FA4D4F13DB08</string>
+</dict>
+</plist>
