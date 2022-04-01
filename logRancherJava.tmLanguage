@@ -84,7 +84,7 @@
 			<key>comment</key>
 			<string>stacktrace jboss</string>
 			<key>match</key>
-			<string>^(\s*)(at )(.*)(\(.*\))$</string>
+			<string>^(\t)(at )(.*)(\(.*\))</string>
 			<key>name</key>
 			<string>string.quoted.logRancherJava</string>
 		</dict>
@@ -312,7 +312,7 @@
 			<key>comment</key>
 			<string>Installer log</string>
 			<key>match</key>
-			<string>\](.[43])\: </string>
+			<string>\](.{42}):</string>
 			<key>name</key>
 			<string>string.quoted.logRancherJava</string>
 		</dict>
